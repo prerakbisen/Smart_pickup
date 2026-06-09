@@ -36,7 +36,7 @@ const HeroSection = () => {
               size="lg"
               iconName="LogIn"
               iconPosition="left"
-              onClick={() => window.location.href = "http://localhost:4028/authentication-portal"}
+              onClick={() => window.location.href = "https://smart-pickup-dashboard.vercel.app/"}
             >
               Login to Dashboard
             </Button>
