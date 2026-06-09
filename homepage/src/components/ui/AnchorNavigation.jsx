@@ -122,7 +122,7 @@ const AnchorNavigation = () => {
                 variant="default"
                 size="sm"
                 className="bg-accent hover:bg-accent/90"
-                onClick={() => window.location.href = "http://localhost:4028/authentication-portal"}
+                onClick={() => window.location.href = "https://smart-pickup-dashboard.vercel.app/"}
               >
                 Get Started
               </Button>
